@@ -1,4 +1,4 @@
-import 'package:app/Calculator.dart';
+import 'package:calc_package/calculator.dart';
 import 'package:flutter/material.dart';
 
 import 'CustomInputField.dart';
